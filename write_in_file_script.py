@@ -28,3 +28,4 @@ target.write('\n')
 target.write(line3)
 
 print("And finally , we close it.")
+target.close()
